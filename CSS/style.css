@@ -1,0 +1,58 @@
+/* Menu / Samuel Dias */
+body {
+    margin: 0px;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #FEF5C5;
+}
+#menu-title {
+    font-family: 'Lobster', cursive;
+    font-size: 27px;
+
+}
+#menu-pesquisa {
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    background-color: #EBEBEF;
+    padding: 9px;
+    border-radius: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: grey;
+
+
+}
+header img {
+    width: 20px;
+}
+header nav {
+    display: flex;
+    justify-content: space-between;
+    width: 116px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+/* Rodapé / Samuel Dias */
+#rodape-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer ul {
+    list-style-type: none;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #EBEBEF;
+    padding-top: 35px;
+}
