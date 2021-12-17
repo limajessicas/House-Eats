@@ -1,0 +1,92 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: #705029;
+    height: 80px;
+    box-shadow:5px 5px 30px #705029 ;
+}
+input {
+    width: 300px;
+    border: 1px solid;
+    border-radius:15px;
+    background: input 15px;
+}
+
+span {
+    color: #F6D446;
+    font-size: 50px;   
+}
+
+nav {
+    color: white;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+h1 {
+  background-color: #f3e3a4;
+  text-align: center;
+  box-shadow:5px 5px 30px #f3e3a4; ;
+}
+#item1 img {
+  width: 10%;
+  background: center center;
+  image-rendering: 100px;
+}
+#item2 img {
+  width: 10%;
+}
+
+
+footer {
+    background-color: #705029;
+    height: 100px;
+    box-shadow:5px 5px 30px #705029 ;
+     color: white;
+
+}
+
+iframe{
+
+    max-height: 140px;
+    max-width: 250px;
+}
+
+footer {
+  background-color: #705029;
+  padding: 80px;
+  color: white;
+  margin-top: 0px;
+  margin-inline-end: 0%;
+  display: flex;
+  align-items: start;
+  justify-content: space-around;
+  padding-top: 10px;
+}
+
+#descricao-loja {
+  max-width: 420px;
+  font-size: 17px;
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 0px;
+}
+footer div {
+  font-size: 20px;
+  width: 25%;
+  
+}
+
+
+
+
